@@ -1,0 +1,16 @@
+{
+  "name": "Ludo Shahzaib",
+  "short_name": "Ludo",
+  "description": "Shahzaib ki Ludo Game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff69b4",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
